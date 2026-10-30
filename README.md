@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Sofia Stetsiuk — QA Engineer × Game Designer"/>
+<img src="./assets/header.jpg" width="100%" alt="QA Engineer × Game Designer"/>
+
+<h1>Sofia Stetsiuk =^･ω･^=</h1>
 
 <a href="https://sofia-stetsiuk-portfolio.vercel.app/en">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E0307E&center=true&vCenter=true&width=600&lines=Testing+experiences.;Designing+worlds.;Playing+for+real.+%F0%9F%8E%AE" alt="Typing SVG" />
