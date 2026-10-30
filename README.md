@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Sofia%20Stetsiuk&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%C3%97%20Game%20Designer&descAlignY=60&descSize=20" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Sofia Stetsiuk — QA Engineer × Game Designer"/>
 
 <a href="https://sofia-stetsiuk-portfolio.vercel.app/en">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Testing+experiences.;Designing+worlds.;Playing+for+real.+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E0307E&center=true&vCenter=true&width=600&lines=Testing+experiences.;Designing+worlds.;Playing+for+real.+%F0%9F%8E%AE" alt="Typing SVG" />
 </a>
 
 📍 Batumi, Georgia &nbsp;·&nbsp; 🌍 Remote / Hybrid / On-site / Relocation &nbsp;·&nbsp; 🎯 Open to **QA Engineer**, **Game QA** & **Game Design** roles
 
-<a href="https://sofia-stetsiuk-portfolio.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:sofiavipera@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/silestiari"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/silestiari/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<a href="https://sofia-stetsiuk-portfolio.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-FF5FA2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:sofiavipera@gmail.com"><img src="https://img.shields.io/badge/Email-E0307E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/silestiari"><img src="https://img.shields.io/badge/Telegram-C25BA5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/silestiari/"><img src="https://img.shields.io/badge/Steam-9B3FD1?style=for-the-badge&logo=steam&logoColor=white"/></a>
 
 </div>
 
----
+<p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ &nbsp; =^･ω･^= &nbsp; ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
-## 👾 About me
+## 🐾 About me
 
 I test products the way players and users actually use them, design game systems for **Roblox**, and take web & game projects from idea to release — setting the tasks, making the design decisions and checking the results.
 
@@ -26,9 +26,9 @@ I test products the way players and users actually use them, design game systems
 - 🌐 **Web** — trilingual Next.js sites with Playwright tests and Lighthouse audits
 - 🗣️ Russian (native) · English (B1)
 
----
+<p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ &nbsp; =^･ω･^= &nbsp; ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
-## 🚀 Featured projects
+## 🌸 Featured projects
 
 ### 🌐 Web
 
@@ -49,9 +49,9 @@ I test products the way players and users actually use them, design game systems
 
 > 🎨 Plus a **3D showroom** of ~33 Blender models made for the Roblox Creator Store — see the [portfolio](https://sofia-stetsiuk-portfolio.vercel.app/en).
 
----
+<p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ &nbsp; =^･ω･^= &nbsp; ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
-## 🧰 Skills
+## 🎀 Skills
 
 <details open>
 <summary><b>🧪 QA & Testing</b></summary>
@@ -91,21 +91,12 @@ Core loops & progression · economy & monetization · balancing · multiplayer &
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=silestiari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silestiari&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
+<p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ &nbsp; =^･ω･^= &nbsp; ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
 <div align="center">
 
-💬 **Looking for a QA or game designer who actually plays?** → [Let's talk](https://t.me/silestiari)
+🐱 **Looking for a QA or game designer who actually plays?** → [Let's talk](https://t.me/silestiari)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A8D8,100:FFE3F1&height=100&section=footer" width="100%"/>
 
 </div>
