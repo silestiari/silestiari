@@ -97,8 +97,6 @@ Core loops & progression · economy & monetization · balancing · multiplayer &
 
 <div align="center">
 
-🐱 **Looking for a QA or game designer who actually plays?** → [Let's talk](https://t.me/silestiari)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A8D8,100:FFE3F1&height=100&section=footer" width="100%"/>
+[![Let's talk](./assets/footer.jpg)](https://t.me/silestiari)
 
 </div>
