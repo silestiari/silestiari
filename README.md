@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.jpg" width="100%" alt="QA Engineer × Game Designer"/>
+<img src="./assets/header.gif" width="100%" alt="QA Engineer × Game Designer"/>
 
 <h1>Sofia Stetsiuk =^･ω･^=</h1>
 
