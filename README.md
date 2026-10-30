@@ -49,7 +49,7 @@ I test products the way players and users actually use them, design game systems
 | 🧱 **PILLARS: Hide & Stack** | Multiplayer hide-and-seek block game — hide, hunt, build the tallest pillar | [▶ Play](https://www.roblox.com/games/102854253424644) |
 | 🐾 **Build Your Own Pet** | Build a pet from 6 parts with elements & rarities, earn parts in minigames, auto-PvP | [▶ Play](https://www.roblox.com/games/83887073812489) |
 
-> 🎨 Plus a **3D showroom** of ~33 Blender models made for the Roblox Creator Store — see the [portfolio](https://sofia-stetsiuk-portfolio.vercel.app/en).
+> 🎨 Plus **[60 free 3D models](https://github.com/silestiari/3d-models)** made in Blender for my Roblox games — buildings, trees, a sea dragon & modular pet parts. [View them in 3D →](https://sofia-stetsiuk-portfolio.vercel.app/en#showroom)
 
 <p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ &nbsp; =^･ω･^= &nbsp; ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
