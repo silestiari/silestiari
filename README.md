@@ -11,6 +11,7 @@
 📍 Batumi, Georgia &nbsp;·&nbsp; 🌍 Remote / Hybrid / On-site / Relocation &nbsp;·&nbsp; 🎯 Open to **QA Engineer**, **Game QA** & **Game Design** roles
 
 <a href="https://sofia-stetsiuk-portfolio.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-FF5FA2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/silestiari/sofia-stetsiuk-portfolio"><img src="https://img.shields.io/badge/Portfolio_code-D9568F?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:sofiavipera@gmail.com"><img src="https://img.shields.io/badge/Email-E0307E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/silestiari"><img src="https://img.shields.io/badge/Telegram-C25BA5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/silestiari/"><img src="https://img.shields.io/badge/Steam-9B3FD1?style=for-the-badge&logo=steam&logoColor=white"/></a>
@@ -36,7 +37,7 @@ I test products the way players and users actually use them, design game systems
 
 | Project | What it is | Status |
 |---|---|---|
-| 🛍️ **[Grand Mall Batumi](https://grand-mall-three.vercel.app)** | Trilingual (EN/RU/KA) shopping-mall site: searchable store directory, interactive map, documented QA pass | ✅ Released |
+| 🛍️ **[Grand Mall Batumi](https://grand-mall-three.vercel.app)**<br/><sub>[💻 Code](https://github.com/silestiari/grand-mall)</sub> | Trilingual (EN/RU/KA) shopping-mall site: searchable store directory, interactive map, documented QA pass | ✅ Released |
 | 🍷 **Sakhli** | One-page restaurant landing (KA/EN/RU) with a living pond animation, time-of-day hero, 100 Lighthouse accessibility | 🛠️ In development |
 | 📚 **[IziEGE](https://claude.ai/artifact/7XccEcN3ejMwpetZetWbBy)** | ЕГЭ exam-prep app: 6 subjects, mock exams, AI-checked answers, flashcards, 60-sec blitz, weekly leaderboard | 🧩 Prototype |
 
